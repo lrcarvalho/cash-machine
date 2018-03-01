@@ -1,6 +1,6 @@
 # API Cash Machine
 
-Simple project using Silex to implement the classic Cass Machine providing it as a RESTFul endopoints.
+Simple project using Silex to implement the classic programming exercise "Cash Machine", providing it as a RESTFul endopoints.
 
 ##Installing
 
