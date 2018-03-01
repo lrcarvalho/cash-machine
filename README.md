@@ -14,10 +14,14 @@ This project was build with a LAMP environment, using vagrant to setup it (scotc
 The configuration for dev hosts was creating using php CLI with create-project.php file (https://gist.github.com/lrcarvalho/21a2ff64c1102c10de0762663d279ad6)
 
 ### Enviroment basic
+* Linux (Ubuntu 14.04)
 * PHP7
 * Apache 2.2
 * Composer
 * PHPUnit
+
+### Test
+Go to the project folder and run ./phpunit
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
